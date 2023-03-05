@@ -1,0 +1,11 @@
+@font-face {
+font-family: lirikfont;
+src: url(./font/lirikfont.ttf);
+}
+
+* {
+    font-family: lirikfont;
+}
+p {
+    line-height: 25px;
+}
